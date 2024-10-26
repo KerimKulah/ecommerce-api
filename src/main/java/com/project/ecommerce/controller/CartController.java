@@ -41,6 +41,4 @@ public class CartController {
         return "success";
     }
 
-    //Kendime not : void iken sorunsuz çalışıyordu ama gönderdiğimi anlamıyordum string yaptım
-    //bir sıkıntı da aklımda olsun.
 }
